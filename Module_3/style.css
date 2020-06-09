@@ -1,0 +1,33 @@
+* {
+    box-sizing: border-box;
+    font-family: Helvetica;
+}
+.container {
+  width: auto;
+  height: auto;
+  border: 1px solid blue;
+  display: inline-block;
+  margin: 60px;
+  height: 170px;
+  background-color: #697395FF
+}
+.cl_nav {
+	text-align: center;
+}
+section {
+	color: black;
+	text-align: center;
+}
+
+#head {
+	text-align: center;
+}
+#h5_2 {
+	background-color: red;
+}
+#h5_3 {
+	background-color: #BF913FFF;
+}
+body {
+	margin-top: 120px;
+}
